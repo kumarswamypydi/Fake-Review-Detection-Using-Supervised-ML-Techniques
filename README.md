@@ -16,3 +16,16 @@ successful development and validation, the ultimate goal is to provide a practic
 platforms and businesses to automatically identify and mitigate the impact of fake reviews. This 
 research contributes to the field of online reputation management and consumer trust by leveraging 
 advanced machine learning techniques to foster a more reliable online review ecosystem.
+
+
+
+**Algorithms Used:**
+
+1. Multinomial Naive Bayes
+2. Random Forest
+3. Decision Tree
+4. Support Vector Machine
+5. K Nearest Neighbour
+6. Multilayer Perceptron
+7. Gradient Boosting
+   
